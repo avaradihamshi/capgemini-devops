@@ -1,4 +1,7 @@
-class a{
-fhdhghtryhrujyj
-dtxevgbg
+class A{
+void welcome(){
+}
+void add(int x,int y)
+{
+y=x+y;
 }
