@@ -1,3 +1,4 @@
+//added by deepa from local repositiry
 class A{
 void welcome(){
 }
@@ -5,3 +6,4 @@ void add(int x,int y)
 {
 y=x+y;
 }
+//working
